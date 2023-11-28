@@ -1,7 +1,8 @@
 # Farecast NYC-TLC Estimation
 
-![sample](https://postimg.cc/7bSBScjH)
-[//]: # (Photo by Rodolfo Clix from Pexels: https://www.pexels.com/photo/panning-photography-of-yellow-taxi-1521580/)
+![sample](https://i.postimg.cc/qB59HHL3/pexels-photo-1521580.webp)
+
+<!-- Photo by Rodolfo Clix from Pexels: https://www.pexels.com/photo/panning-photography-of-yellow-taxi-1521580/ -->
 
 ## Summary
 
@@ -9,7 +10,7 @@ The optimization of taxi service operations is crucial to meet the dynamic deman
 
 This project delves into the intricate patterns and trends within New York City taxi service data, unveiling valuable insights to optimize both operational efficiency and customer satisfaction. Through comprehensive exploratory data analysis, the project uncovers temporal patterns, peak hours, and other factors influencing taxi service demand. Leveraging this understanding, the objective is to enhance service operations and effectively meet customer needs. Additionally, the project extends to predictive modeling, implementing algorithms like multiple linear regression, random forest, and XGBoost to develop and evaluate models for accurate fare and tip estimations.
 
-![models](https://postimg.cc/PNH7VTWp)
+![models](https://i.postimg.cc/NjwmKLDv/trips-by-hourly-passengers.png)
 
 ## Project Structure
 
